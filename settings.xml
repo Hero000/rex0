@@ -1,0 +1,20 @@
+<settings>
+    <setting name="@mysql.database" value="owl_mta" />
+    <setting name="@mysql.username" value="root" />
+    <setting name="@mysql.password" value="" />
+    <setting name="@mysql.hostname" value="127.0.0.1" />
+    <setting name="@mysql.port" value="3306" />
+    
+    <setting name="@mysql.forums_database" value="rpn_forums" />
+    <setting name="@mysql.forums_username" value="root" />
+    <setting name="@mysql.forums_password" value="scoody26" />
+    <setting name="@mysql.forums_hostname" value="127.0.0.1" />
+    <setting name="@mysql.forums_port" value="3306" />
+    
+    <!--<setting name="@mysql.logs_database" value="dev_logs" />
+	<setting name="@mysql.logs_username" value="dev" />
+	<setting name="@mysql.logs_password" value="" />
+    <setting name="@mysql.logs_hostname" value="127.0.0.1" />
+    <setting name="@mysql.logs_port" value="3306" -->
+    <setting name="admin.ip2cUpdateTime" value="[ 1441571598 ]"></setting>
+</settings>
